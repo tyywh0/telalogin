@@ -10,8 +10,8 @@
 }
 .login{
     height: 100vh;
-    background-color: #573401;
-    background: linear-gradient (135deg, #573401, #573401);
+    /* background-color: #573401;
+    background: linear-gradient (135deg, #573401, #573401); */
     display:flex;
     justify-content:center;
     align-items: center;
@@ -98,4 +98,7 @@
     color: #ffffff;
     padding: 8px;
     cursor: pointer;
+}
+body{
+    background: url('https://picsum.photos/1920/1980');
 }
